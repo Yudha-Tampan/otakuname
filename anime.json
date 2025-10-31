@@ -1,0 +1,48 @@
+[
+  {
+  "judul": "Sousou no Frieren 2nd Season",
+  "hari": "Jumat",
+  "tanggal": "2026-01-16",
+  "jam": "00:00",
+  "musim": "Musim Dingin 2026",
+  "gambar": "gambar/snf2s.jpg",
+  "genre": ["adventure", "drama", "fantasy", "magic", "shounen"],
+  "studio": "MADHOUSE"
+},
+{
+  "judul": "Jigokuraku 2nd Season",
+  "bulan_tahun": "Januari 2026",
+  "musim": "Musim Dingin 2026",
+  "gambar": "gambar/j2s.jpg",
+  "genre": ["adventure", "historical", "action", "supernatural", "shounen"],
+  "studio": "MAPPA"
+},
+{
+  "judul": "Mato Seihei no Slave 2nd Season",
+  "bulan_tahun": "Januari 2026",
+  "musim": "Musim Dingin 2026",
+  "gambar": "gambar/msns2s.jpg",
+  "genre": ["adventure", "harem", "action", "ecchi", "shounen"],
+  "studio": "MAPPA"
+},
+  {
+    "judul": "JUJUTSU KAISEN Shibuya Jihen Tokubetsu Henshu-ban x Shimetsu Kaiyu Senkou Jouei",
+    "hari": "Selasa",
+    "tanggal": "2025-11-06",
+    "jam": "22:00",
+    "musim": "Musim Gugur 2025",
+    "gambar": "gambar/jjk.jpg",
+    "genre": ["action", "fantasy", "school", "shounen"],
+    "studio": "MAPPA"
+  },
+  {
+  "judul": "Towa no Yugure Episode 0",
+  "hari": "Jumat",
+  "tanggal": "2025-09-26",
+  "jam": "22:00",
+  "musim": "Musim Gugur 2025",
+  "gambar": "gambar/tny.jpg",
+  "genre": ["drama", "sc-fi"],
+  "studio": "P.A WORKS"
+}
+]
